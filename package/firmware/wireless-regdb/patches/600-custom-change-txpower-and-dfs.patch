@@ -30,3 +30,4 @@
  	# https://www.federalregister.gov/documents/2021/05/03/2021-08802/use-of-the-5850-5925-ghz-band
  	# max. 33 dBm AP @ 20MHz, 36 dBm AP @ 40Mhz+, 6 dB less for clients
  	(5850 - 5895 @ 40), (33), NO-OUTDOOR, AUTO-BW, NO-IR
+ 	(5850 - 5895 @ 40), (33), NO-OUTDOOR, AUTO-BW, NO-IR
